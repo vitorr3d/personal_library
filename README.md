@@ -30,7 +30,7 @@ When you launch the program, you’ll see a menu with four options:
 3. Show the list of books
 4. Save and quit
 
-1. Adding a Book
+## Adding a Book
 
 You’ll be prompted for:
 
